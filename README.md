@@ -1,7 +1,8 @@
 # **Kodluyoruz İlk Repo**
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ***
-![image](https://r.resimlink.com/mVP8f.png)
+> Image 
+[![image](https://r.resimlink.com/mVP8f.png)](https://resimlink.com/mVP8f)
 
 # **Installation**
 Öncelikle projeyi clonelayın. ( Buraya sizin reponuzdan aldığınız link gelecek)
